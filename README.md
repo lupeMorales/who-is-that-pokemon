@@ -9,7 +9,7 @@
 
 ## Preview:
 
-![Mobile](https://github.com/lupeMorales/modulo-2-evaluacion-final-lupeMorales/blob/main/src/images/mobile_view.png?raw=true)
+![Screen Shot](https://github.com/lupeMorales/who-is-that-pokemon/blob/main/WhoIsThatPKMN/preview.png?raw=true)
 
 
 ## Feactures:
@@ -33,8 +33,8 @@
 This project has been built with:
 
 - Swift 5.6
-- Xcode 13,3
-- iOS 15.5
+- Xcode 14.0.1
+- iOS 16.0
 
 
-Made with love lupeMorales
+Made with  :heart:  by [lupeMorales](https://lupemorales.github.io/portfolio/)
